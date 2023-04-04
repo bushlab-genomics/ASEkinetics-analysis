@@ -1,0 +1,3 @@
+group_name	target	replicate_number	bam_name	bed_name
+GM12878	LARP7	1	/mnt/pan/Data14/ASB/bamfiles/GM12878_ENCSR657PEW-LARP7_rep1.bam	/mnt/pan/Data14/ASB/bedfiles/GM12878_ENCSR657PEW-LARP7.bed
+GM12878	LARP7	2	/mnt/pan/Data14/ASB/bamfiles/GM12878_ENCSR657PEW-LARP7_rep2.bam	/mnt/pan/Data14/ASB/bedfiles/GM12878_ENCSR657PEW-LARP7.bed

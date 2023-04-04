@@ -1,0 +1,3 @@
+group_name	target	replicate_number	bam_name	bed_name
+GM12878	TBX21	1	/mnt/pan/Data14/ASB/bamfiles/GM12878_ENCSR739IHN-TBX21_rep1.bam	/mnt/pan/Data14/ASB/bedfiles/GM12878_ENCSR739IHN-TBX21.bed
+GM12878	TBX21	2	/mnt/pan/Data14/ASB/bamfiles/GM12878_ENCSR739IHN-TBX21_rep2.bam	/mnt/pan/Data14/ASB/bedfiles/GM12878_ENCSR739IHN-TBX21.bed

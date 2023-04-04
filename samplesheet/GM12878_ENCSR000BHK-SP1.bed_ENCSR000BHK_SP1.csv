@@ -1,0 +1,2 @@
+group_name	target	replicate_number	bam_name	bed_name
+GM12878_ENCSR000BHK-SP1.bed	SP1	2	/mnt/pan/Data14/ASB/bamfiles/GM12878_ENCSR000BHK-SP1_rep2.bam	/mnt/pan/Data14/ASB/bedfiles/SP1

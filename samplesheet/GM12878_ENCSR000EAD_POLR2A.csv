@@ -1,0 +1,8 @@
+group_name	target	replicate_number	bam_name	bed_name
+GM12878	POLR2A	4	/mnt/pan/Data14/ASB/bamfiles/GM12878_ENCSR000EAD-POLR2A_rep4.bam	/mnt/pan/Data14/ASB/bedfiles/GM12878_ENCSR000EAD-POLR2A.bed
+GM12878	POLR2A	1	/mnt/pan/Data14/ASB/bamfiles/GM12878_ENCSR000EAD-POLR2A_rep1.bam	/mnt/pan/Data14/ASB/bedfiles/GM12878_ENCSR000EAD-POLR2A.bed
+GM12878	POLR2A	6	/mnt/pan/Data14/ASB/bamfiles/GM12878_ENCSR000EAD-POLR2A_rep6.bam	/mnt/pan/Data14/ASB/bedfiles/GM12878_ENCSR000EAD-POLR2A.bed
+GM12878	POLR2A	2	/mnt/pan/Data14/ASB/bamfiles/GM12878_ENCSR000EAD-POLR2A_rep2.bam	/mnt/pan/Data14/ASB/bedfiles/GM12878_ENCSR000EAD-POLR2A.bed
+GM12878	POLR2A	7	/mnt/pan/Data14/ASB/bamfiles/GM12878_ENCSR000EAD-POLR2A_rep7.bam	/mnt/pan/Data14/ASB/bedfiles/GM12878_ENCSR000EAD-POLR2A.bed
+GM12878	POLR2A	3	/mnt/pan/Data14/ASB/bamfiles/GM12878_ENCSR000EAD-POLR2A_rep3.bam	/mnt/pan/Data14/ASB/bedfiles/GM12878_ENCSR000EAD-POLR2A.bed
+GM12878	POLR2A	5	/mnt/pan/Data14/ASB/bamfiles/GM12878_ENCSR000EAD-POLR2A_rep5.bam	/mnt/pan/Data14/ASB/bedfiles/GM12878_ENCSR000EAD-POLR2A.bed

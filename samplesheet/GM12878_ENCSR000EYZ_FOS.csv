@@ -1,0 +1,4 @@
+group_name	target	replicate_number	bam_name	bed_name
+GM12878	FOS	2	/mnt/pan/Data14/ASB/bamfiles/GM12878_ENCSR000EYZ-FOS_rep2.bam	/mnt/pan/Data14/ASB/bedfiles/GM12878_ENCSR000EYZ-FOS.bed
+GM12878	FOS	3	/mnt/pan/Data14/ASB/bamfiles/GM12878_ENCSR000EYZ-FOS_rep3.bam	/mnt/pan/Data14/ASB/bedfiles/GM12878_ENCSR000EYZ-FOS.bed
+GM12878	FOS	1	/mnt/pan/Data14/ASB/bamfiles/GM12878_ENCSR000EYZ-FOS_rep1.bam	/mnt/pan/Data14/ASB/bedfiles/GM12878_ENCSR000EYZ-FOS.bed

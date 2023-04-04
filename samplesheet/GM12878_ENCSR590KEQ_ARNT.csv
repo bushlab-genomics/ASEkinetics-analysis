@@ -1,0 +1,3 @@
+group_name	target	replicate_number	bam_name	bed_name
+GM12878	ARNT	2	/mnt/pan/Data14/ASB/bamfiles/GM12878_ENCSR590KEQ-ARNT_rep2.bam	/mnt/pan/Data14/ASB/bedfiles/GM12878_ENCSR590KEQ-ARNT.bed
+GM12878	ARNT	3	/mnt/pan/Data14/ASB/bamfiles/GM12878_ENCSR590KEQ-ARNT_rep3.bam	/mnt/pan/Data14/ASB/bedfiles/GM12878_ENCSR590KEQ-ARNT.bed

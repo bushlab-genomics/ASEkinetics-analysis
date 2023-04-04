@@ -1,0 +1,3 @@
+group_name	target	replicate_number	bam_name	bed_name
+GM12878	ARID3A	5	/mnt/pan/Data14/ASB/bamfiles/GM12878_ENCSR778UBR-ARID3A_rep5.bam	/mnt/pan/Data14/ASB/bedfiles/GM12878_ENCSR778UBR-ARID3A.bed
+GM12878	ARID3A	6	/mnt/pan/Data14/ASB/bamfiles/GM12878_ENCSR778UBR-ARID3A_rep6.bam	/mnt/pan/Data14/ASB/bedfiles/GM12878_ENCSR778UBR-ARID3A.bed

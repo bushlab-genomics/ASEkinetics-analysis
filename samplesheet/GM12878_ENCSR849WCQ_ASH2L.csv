@@ -1,0 +1,3 @@
+group_name	target	replicate_number	bam_name	bed_name
+GM12878	ASH2L	1	/mnt/pan/Data14/ASB/bamfiles/GM12878_ENCSR849WCQ-ASH2L_rep1.bam	/mnt/pan/Data14/ASB/bedfiles/GM12878_ENCSR849WCQ-ASH2L.bed
+GM12878	ASH2L	2	/mnt/pan/Data14/ASB/bamfiles/GM12878_ENCSR849WCQ-ASH2L_rep2.bam	/mnt/pan/Data14/ASB/bedfiles/GM12878_ENCSR849WCQ-ASH2L.bed

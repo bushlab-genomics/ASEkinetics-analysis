@@ -1,0 +1,3 @@
+group_name	target	replicate_number	bam_name	bed_name
+GM12878	MEF2C	1	/mnt/pan/Data14/ASB/bamfiles/GM12878_ENCSR000BNG-MEF2C_rep1.bam	/mnt/pan/Data14/ASB/bedfiles/GM12878_ENCSR000BNG-MEF2C.bed
+GM12878	MEF2C	2	/mnt/pan/Data14/ASB/bamfiles/GM12878_ENCSR000BNG-MEF2C_rep2.bam	/mnt/pan/Data14/ASB/bedfiles/GM12878_ENCSR000BNG-MEF2C.bed

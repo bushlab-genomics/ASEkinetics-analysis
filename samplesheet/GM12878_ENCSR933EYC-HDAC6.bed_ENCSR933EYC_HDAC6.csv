@@ -1,0 +1,2 @@
+group_name	target	replicate_number	bam_name	bed_name
+GM12878_ENCSR933EYC-HDAC6.bed	HDAC6	1	/mnt/pan/Data14/ASB/bamfiles/GM12878_ENCSR933EYC-HDAC6_rep1.bam	/mnt/pan/Data14/ASB/bedfiles/HDAC6

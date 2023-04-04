@@ -1,0 +1,3 @@
+group_name	target	replicate_number	bam_name	bed_name
+GM12878	BHLHE40	4	/mnt/pan/Data14/ASB/bamfiles/GM12878_ENCSR987MTA-BHLHE40_rep4.bam	/mnt/pan/Data14/ASB/bedfiles/GM12878_ENCSR987MTA-BHLHE40.bed
+GM12878	BHLHE40	5	/mnt/pan/Data14/ASB/bamfiles/GM12878_ENCSR987MTA-BHLHE40_rep5.bam	/mnt/pan/Data14/ASB/bedfiles/GM12878_ENCSR987MTA-BHLHE40.bed

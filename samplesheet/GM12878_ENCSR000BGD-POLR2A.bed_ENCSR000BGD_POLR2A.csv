@@ -1,0 +1,3 @@
+group_name	target	replicate_number	bam_name	bed_name
+GM12878_ENCSR000BGD-POLR2A.bed	POLR2A	1	/mnt/pan/Data14/ASB/bamfiles/GM12878_ENCSR000BGD-POLR2A_rep1.bam	/mnt/pan/Data14/ASB/bedfiles/POLR2A
+GM12878_ENCSR000BGD-POLR2A.bed	POLR2A	2	/mnt/pan/Data14/ASB/bamfiles/GM12878_ENCSR000BGD-POLR2A_rep2.bam	/mnt/pan/Data14/ASB/bedfiles/POLR2A

@@ -1,0 +1,2 @@
+group_name	target	replicate_number	bam_name	bed_name
+GM12878_ENCSR000BRG-EGR1.bed	EGR1	3	/mnt/pan/Data14/ASB/bamfiles/GM12878_ENCSR000BRG-EGR1_rep3.bam	/mnt/pan/Data14/ASB/bedfiles/EGR1

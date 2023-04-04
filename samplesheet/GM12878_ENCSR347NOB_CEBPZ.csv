@@ -1,0 +1,3 @@
+group_name	target	replicate_number	bam_name	bed_name
+GM12878	CEBPZ	1	/mnt/pan/Data14/ASB/bamfiles/GM12878_ENCSR347NOB-CEBPZ_rep1.bam	/mnt/pan/Data14/ASB/bedfiles/GM12878_ENCSR347NOB-CEBPZ.bed
+GM12878	CEBPZ	3	/mnt/pan/Data14/ASB/bamfiles/GM12878_ENCSR347NOB-CEBPZ_rep3.bam	/mnt/pan/Data14/ASB/bedfiles/GM12878_ENCSR347NOB-CEBPZ.bed

@@ -1,0 +1,3 @@
+group_name	target	replicate_number	bam_name	bed_name
+GM12878	SREBF1	1	/mnt/pan/Data14/ASB/bamfiles/GM12878_ENCSR000DYU-SREBF1_rep1.bam	/mnt/pan/Data14/ASB/bedfiles/GM12878_ENCSR000DYU-SREBF1.bed
+GM12878	SREBF1	2	/mnt/pan/Data14/ASB/bamfiles/GM12878_ENCSR000DYU-SREBF1_rep2.bam	/mnt/pan/Data14/ASB/bedfiles/GM12878_ENCSR000DYU-SREBF1.bed

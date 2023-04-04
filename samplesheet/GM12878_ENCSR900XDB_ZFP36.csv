@@ -1,0 +1,3 @@
+group_name	target	replicate_number	bam_name	bed_name
+GM12878	ZFP36	4	/mnt/pan/Data14/ASB/bamfiles/GM12878_ENCSR900XDB-ZFP36_rep4.bam	/mnt/pan/Data14/ASB/bedfiles/GM12878_ENCSR900XDB-ZFP36.bed
+GM12878	ZFP36	5	/mnt/pan/Data14/ASB/bamfiles/GM12878_ENCSR900XDB-ZFP36_rep5.bam	/mnt/pan/Data14/ASB/bedfiles/GM12878_ENCSR900XDB-ZFP36.bed
